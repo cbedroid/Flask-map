@@ -1,0 +1,98 @@
+body {
+  background: #48576e;
+  height:100%;
+  width:100%;
+  color: #333333;
+  position:relative;
+  margin-top: 2rem;
+  background-image:url('https://miro.medium.com/max/5000/1*FlJ5v3UOLcwNlp_LnzAk2A.jpeg');
+  background-position:left 45px top 230px  ;
+  background-size:cover;
+
+}
+
+.container {
+  margin:0 auto;
+  
+}
+.alert {
+  top:2px;
+  margin:5px 0;
+  text-size:18px;
+  text-align:center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #444444;
+}
+
+header {
+  background: #0F0F0F;
+}
+
+header h2 {
+  padding:5px;
+  text-align:center;
+  color: red;
+}
+
+/*<img id='logo_one' src='https://www.maketecheasier.com/assets/uploads/2017/07/google-maps-alternatives-featured-800x400.jpg'>*/
+.content-home {
+  overflow-x:hidden;
+  margin:0 auto;
+  width:auto;
+  max-width:100%;
+  background: #73fffd;
+  border:2px #b5b5ba solid;
+}
+
+#logo_one {
+  width: 75%;
+  max-height: 200px;
+  display: block;
+  margin: auto;
+}
+
+.coordinance {
+  color: #421cff;
+  text-align: center;
+  display: block;
+  margin: 10px;
+  float: middle;
+  overflow: hidden;
+}
+
+.lat-lon div {
+  display:inline-block;
+  padding-right:5px;
+}
+.coor-text {
+  padding:3px;
+  background:#999b9e;
+  border:1.5px #0F0F0F solid;
+  text-align:center;
+  font-size:18px;
+  font-weight:500;
+}
+
+input[type="text"] {
+  width:150px;
+  height:35px;
+  margin: 1px 0;
+}
+
+#submit {
+  margin-top:5px;
+  width: 20%;
+  padding:2px 0;
+}
+
+.img {
+  margin: 0 auto;
+  width:auto;
+  max-width:90%;
+}
+
+.img img {
+  border:5px #0F0F0F solid;
+}

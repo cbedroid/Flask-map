@@ -1,0 +1,11 @@
+*__pycache__
+*.tox*
+*egg*
+*cache*
+*__utils*
+*swp
+*swo
+*log*
+*cred*
+*map.html
+
